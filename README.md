@@ -1,7 +1,7 @@
 ## Clang-Format Resource
 - [Clang-Format Style Options](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
 - [LLVM Snapshot Builds](http://llvm.org/builds/)
-- [clang-format_LLVM-10.0.0.exe.zip](clang-format_LLVM-10.0.0.exe.7z)
+- [clang-format_LLVM-10.0.0.exe.zip](clang-format_LLVM-10.0.0.exe.zip)
 
 
 ## 在 Qt Creator 中使用 Clang-Format 的方法
