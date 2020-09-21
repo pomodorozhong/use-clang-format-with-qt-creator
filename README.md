@@ -1,5 +1,6 @@
 ## Clang-Format Resource
-- [Clang-Format Style Options](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+- [A online tool for building your .clang-format interactively](https://clangformat.com/)
+- [Clang-Format 官方手冊](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
 - [LLVM Snapshot Builds](http://llvm.org/builds/)
 - [clang-format_LLVM-10.0.0.exe.zip](clang-format_LLVM-10.0.0.exe.zip)
 
